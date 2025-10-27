@@ -11,7 +11,7 @@ package com.mycompany.myvpzoo;
 public class MyVPZoo {
 
     public static void main(String[] args) {
-        Zoo SherZoo = new Zoo("Welcome to Sheridan Zoo edit!");
+        Zoo SherZoo = new Zoo("Welcome to Sheridan Gym edit!");
         SherZoo.About();
     }
     
